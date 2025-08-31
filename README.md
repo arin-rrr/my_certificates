@@ -8,3 +8,4 @@
 - [Web parsing на Питоне](https://stepik.org/cert/2409434) (Stepik, 2024)
 - [Основы статистики](https://stepik.org/cert/2631946) (Stepik, 2024)
 - Интенсив от Яндекс: Yandex A/B Week (2025)
+- [Нейронные сети и компьютерное зрение](https://stepik.org/cert/2936846) (Stepik, 2025)
